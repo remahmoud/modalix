@@ -2,7 +2,7 @@
     "name": "modalix",
     "description": "react modal component without any style",
     "private": false,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "type": "module",
     "main": "dist/cjs/index.js",
     "module": "dist/esm/index.js",
